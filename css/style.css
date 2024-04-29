@@ -1,0 +1,146 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(51, 50, 50);
+}
+
+.titulo-h1 {
+  text-align: center;
+}
+
+.titulo-soporte {
+  text-align: center;
+}
+
+.imagen-soporte {
+  position: relative;
+  bottom: 50px;
+  right: 200px;
+}
+
+.parrafo-soporte {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.3rem;
+}
+
+.icono-whatsapp {
+  position: relative;
+  left: 550px;
+  bottom: 300px;
+}
+
+.titulo-busca {
+  text-align: center;
+}
+
+.google-maps {
+  position: relative;
+  left: 350px;
+}
+
+.titulo-nosotros {
+  text-align: center;
+}
+
+.parrafo-nosotros {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.3rem;
+}
+
+.color {
+  color: white;
+  font-size: 17px;
+  transition: 1s;
+  margin: 26px;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  border-bottom: 1px solid black;
+}
+
+/*Titulo*/
+.titulo h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+}
+.titulo p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 1.3rem;
+  text-align: center;
+}
+.titulo img {
+  position: relative;
+  left: 360px;
+  height: 350px;
+}
+
+.footer-section {
+  text-align: center;
+  padding: 15px 0;
+  background-color: rgb(29, 28, 28);
+}
+
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  position: relative;
+  left: 20px;
+  color: black;
+}
+
+.footer-ul {
+  list-style: none;
+}
+.footer-ul a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.card-de-auto {
+  display: flex;
+  margin: 15px;
+  text-align: center;
+  position: relative;
+  left: 230px;
+  border-bottom: 1px solid black;
+  margin-top: 50px;
+}
+.card-de-auto h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.card-de-auto p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.3rem;
+}
+.card-de-auto a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: black;
+}
+
+.bmw-x3 {
+  margin: 10px;
+}
+
+.bmw-x4 {
+  margin: 10px;
+  height: 500px;
+}
+
+.bmw-x6 {
+  margin: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
